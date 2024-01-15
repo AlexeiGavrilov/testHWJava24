@@ -1,0 +1,6 @@
+янв. 15, 2024 11:12:24 PM seminar2.task.Task3 write
+INFO: null
+янв. 15, 2024 11:13:11 PM seminar2.task.Task3 write
+INFO: Error
+янв. 15, 2024 11:15:21 PM seminar2.task.Task3 write
+INFO: Recorded!

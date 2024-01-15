@@ -1,0 +1,1 @@
+.git.gitignore.ideajavahm.imllog.0.0.txtlog.configoutsrctask3.txttest.txt
