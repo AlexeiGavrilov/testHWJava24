@@ -4,3 +4,67 @@ INFO: null
 INFO: Error
 янв. 15, 2024 11:15:21 PM seminar2.task.Task3 write
 INFO: Recorded!
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:52:45 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
+янв. 16, 2024 9:53:15 PM homeWorkSeminarTwo.task.Task1 sortedArrayBubble
+INFO: Поменяли местами
