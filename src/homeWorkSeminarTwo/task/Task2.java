@@ -40,7 +40,6 @@ public class Task2 {
                     splitedJson[i].equals("Физика"))
                 builder.append(".");
 
-
         }
         System.out.println(builder);
 

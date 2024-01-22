@@ -14,7 +14,6 @@ public class Main {
 
         Task1.sortedArrayBubble(testArray);
         Task1.printArray(testArray);
-
         Task2.printResultString();
 
 
