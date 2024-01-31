@@ -21,13 +21,12 @@ public class OurQueue {
     }
 
     public int first(){
-        return list.get(top);
+        return list.getFirst();
     }
-    public int dequeue(){
-        int n = list.get(top);
-        list.remove(top);
-        return n;
+    public int dequeue() {
+        return list.pollFirst();
     }
+
 
     public int get(int index){
         return list.get(index);
